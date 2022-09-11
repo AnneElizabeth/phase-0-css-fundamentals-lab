@@ -1,5 +1,50 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
 }
+h1 {
+  text-align: center;
+}
+
+img { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  text-align: center;
+}
+
+a:link {
+  background-color: darkgrey;
+}
+
+figcaption {
+  font-size: small;
+  text-align: center;
+  padding: 10px 0;
+}
+
+#blockPara {
+  width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+
+footer div {
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: red;
+  
+}
+footer a:link {
+  background-color: red;
+}
+
+
+
+

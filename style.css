@@ -34,14 +34,15 @@ figcaption {
 }
 
 
-footer div {
+#details div {
   float: left;
   width: 25%;
   text-align: center;
   background-color: red;
   
 }
-footer a:link {
+
+#details a:link {
   background-color: red;
 }
 
